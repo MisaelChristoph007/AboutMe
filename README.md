@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Misael Christopher Haryanto and I'm a Fullstack Developer, from Indonesian</h2>
+
+###
+![computer-spacecomp](https://github.com/MisaelChristoph007/AboutMe/assets/122249229/b6629557-7fc4-47cb-9cf2-938a9ea60a5f)
+
+<img align="left" height="150" src=![computer-spacecomp](https://github.com/MisaelChristoph007/AboutMe/assets/122249229/b6629557-7fc4-47cb-9cf2-938a9ea60a5f)
+/>
 
 ###
 
@@ -8,8 +14,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -43,7 +47,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
